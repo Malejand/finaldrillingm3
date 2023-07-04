@@ -6,3 +6,6 @@ for x in lista:
         if y == 0:
             continue
         print(y)
+
+diccionario_lista = {}
+diccionario_lista
